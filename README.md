@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [4280-count-digit-appearances](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/4280-count-digit-appearances) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [4280-count-digit-appearances](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/4280-count-digit-appearances) |
 <!---LeetCode Topics End-->
