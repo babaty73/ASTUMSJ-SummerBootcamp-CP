@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0861-flipping-an-image](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0861-flipping-an-image) |
 | [4280-count-digit-appearances](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/4280-count-digit-appearances) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0861-flipping-an-image](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0861-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +34,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0049-group-anagrams) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
