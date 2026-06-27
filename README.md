@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0861-flipping-an-image) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0268-missing-number) |
 ## String
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0861-flipping-an-image](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
