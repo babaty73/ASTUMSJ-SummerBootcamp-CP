@@ -1,5 +1,5 @@
+#Codeforces problem 2229 A
 t = int(input())
-
 for i in range(t):
     n = int(input())
     count = 0
