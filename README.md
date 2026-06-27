@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0861-flipping-an-image) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [4280-count-digit-appearances](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/4280-count-digit-appearances) |
 ## Two Pointers
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0861-flipping-an-image](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0861-flipping-an-image) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0268-missing-number) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [4280-count-digit-appearances](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/4280-count-digit-appearances) |
 ## Binary Search
 |  |
@@ -56,5 +59,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
