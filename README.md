@@ -37,10 +37,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0036-valid-sudoku](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0268-missing-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Dynamic Programming
