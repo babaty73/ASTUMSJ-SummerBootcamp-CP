@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0861-flipping-an-image](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0861-flipping-an-image) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 ## Math
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
