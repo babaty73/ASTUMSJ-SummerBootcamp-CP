@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/0058-length-of-last-word) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/babaty73/ASTUMSJ-SummerBootcamp-CP/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
