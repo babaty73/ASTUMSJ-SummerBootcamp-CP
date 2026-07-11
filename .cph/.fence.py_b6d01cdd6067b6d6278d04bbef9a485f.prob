@@ -1,0 +1,1 @@
+{"name":"Local: fence","url":"c:\\Users\\user\\Desktop\\imran-website\\ASTUMSJ-SummerBootcamp-CP\\fence.py","tests":[{"id":1783756204482,"input":"7 3\n1 2 6 1 1 7 1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\Desktop\\imran-website\\ASTUMSJ-SummerBootcamp-CP\\fence.py","group":"local","local":true}
